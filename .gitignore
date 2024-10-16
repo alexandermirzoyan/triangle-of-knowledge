@@ -10,8 +10,8 @@
 .settings/
 *.sublime-workspace
 
-my-app
-my-app-api
+triangle-of-knowledge-api
+triangle-of-knowledge-client
 
 # IDE - VSCode
 .vscode/*
