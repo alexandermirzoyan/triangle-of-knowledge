@@ -8,6 +8,7 @@ Before you start, ensure you have the following installed:
 
 - 🟢 [Node.js](https://nodejs.org/) – JavaScript runtime built on Chrome's V8 engine (npm comes with Node)
 - 🐳 [Docker](https://www.docker.com/) – Containerization platform for building, sharing, and running applications
+- 🐙 [Git](https://git-scm.com/downloads) – Git is a distributed version control system that tracks versions of files.
 
 ## Getting Started
 
